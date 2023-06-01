@@ -17,6 +17,34 @@ function Cart() {
                 id='asdffds'
             
             ></CartItem>
+             <CartItem 
+                imgSrc={img1}
+                name={"Mac book"}
+                price ={1234}
+                qty ={1}
+                
+                id='asdffds'
+            
+            ></CartItem>
+            <CartItem 
+                imgSrc={img1}
+                name={"Mac book"}
+                price ={1234}
+                qty ={1}
+                
+                id='asdffds'
+            
+            ></CartItem>
+            <CartItem 
+                imgSrc={img1}
+                name={"Mac book"}
+                price ={1234}
+                qty ={1}
+                
+                id='asdffds'
+            
+            ></CartItem>
+            
         </main>
         <aside>
             <h2>Subtotal:${2000}</h2>
